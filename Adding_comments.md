@@ -2,6 +2,22 @@ Adding comments in bash script
 Comments are lines in code that are ignored by the intepreter.
 Comments are essiential in programming. They tell you details or more information of a command or what a script is doing. There are single in-line comments as well as multiple line comments.
 The image below would demonstrate this.
+
+single line commenting and Multiple line commenting
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/61e7d34c-9c05-414a-9534-850abee6e4cc" />
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/4b512c6c-69c9-40b2-b0a8-434749763905" />
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/e1da0a9f-e411-4598-b4b7-c6182693a1ce" />
+<img width="961" height="506" alt="image" src="https://github.com/user-attachments/assets/fad0ed87-25a6-4985-b516-22f8a1a667da" />
+
+
+
+
+
+
+
+
+Below are images that show practices i performed outside the project on commenting
+
 single line commenting
 <img width="959" height="506" alt="comment1" src="https://github.com/user-attachments/assets/91d45f70-b6e1-460a-8ad3-b2e608682725" />
 <img width="959" height="505" alt="comment2" src="https://github.com/user-attachments/assets/2a099b46-7760-46e9-a76c-0476e1773d38" />
